@@ -20,7 +20,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
 
 <br>
-<br  width="36%">
+<hr width="36%" >
 
 <h3>Contacto</h3>
 <div align='left'>
