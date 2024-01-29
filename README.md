@@ -4,7 +4,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,ts,php,nodejs,mysql,js,html,css,git,dotnet,cs,c&perline=12" />
+    <img src="https://skillicons.dev/icons?i=angular,firebase,ts,php,nodejs,mysql,js,html,css,git,dotnet,cs,c&perline=12" />
   </a>
 </p>
 <br>
