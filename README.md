@@ -1,5 +1,3 @@
-<h1 align="center">Buenas! 👋, Soy Jeronimo</h1>
-<br>
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
