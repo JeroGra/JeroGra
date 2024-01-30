@@ -15,7 +15,7 @@
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
 
 <br>
 <br>
@@ -23,8 +23,8 @@
 <br>
 <br>
 <br>
-<br>
-<hr width="36%" >
+<br> -->
+<hr width="36%" > 
 <h3>Contacto</h3>
 <div align='left'>
 <ul>
