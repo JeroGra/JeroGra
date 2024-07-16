@@ -2,7 +2,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,firebase,ts,php,nodejs,mysql,js,html,css,git,dotnet,cs,c,gds&perline=10" />
+    <img src="https://skillicons.dev/icons?i=angular,firebase,ts,php,nodejs,mysql,js,html,css,git,dotnet,cs,c&perline=10" />
   </a>
 </p>
 <br>
