@@ -22,13 +22,28 @@ Actualmente estoy estudiando en la Univercidad de la Ciudad de Buenos Aires la c
 ### Stack
 
 **Frontend & Mobile**
-`Angular` `TypeScript` `Ionic` `HTML` `CSS`
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Backend & Bases de datos**
-`C#` `ASP.NET` `Java` `SQL` `Firebase`
+
+![C#](https://img.shields.io/badge/C%23-violet?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=007396)
+![SQL](https://img.shields.io/badge/SQL-333333?style=for-the-badge&logo=database&logoColor=f89820)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+
 
 **Game Dev & 3D**
-`Unity` `Blender` `GIT`
+
+![Unity](https://img.shields.io/badge/unity-%23555555?style=for-the-badge&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23555555?style=for-the-badge&logo=blender&logoColor=%23F5792A)
+![Git](https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white)
+
 
 ---
 
@@ -37,9 +52,9 @@ Actualmente estoy estudiando en la Univercidad de la Ciudad de Buenos Aires la c
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeroGra&show_icons=true&hide_title=true&count_private=true&theme=default&hide_border=true&icon_color=555&text_color=555)
+![Metrics](https://metrics.lecoq.io/JeroGra?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FArgentina%2FBuenos_Aires).
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeroGra&layout=compact&hide_border=true&theme=default&text_color=555&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeroGra&layout=compact&theme=vision-friendly-dark)
 
 
 
