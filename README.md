@@ -1,58 +1,59 @@
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,firebase,ts,php,nodejs,mysql,js,html,css,git,dotnet,cs,c&perline=10" />
-  </a>
-</p>
-<br>
 
 
-<hr width="36%" >
-<!--
-<h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
 
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+# Jerónimo Granadillo
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br> -->
-<!--<hr width="36%" > --> 
-<h3>Contacto</h3>
-<div align='left'>
-<ul>
+*Full Stack Developer · Indie Game Dev*
 
-<li>
-<a href="https://www.linkedin.com/in/jeronimo-granadillo/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin: Jeronimo Granadillo  -%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
 
-<br>
 
-<li>
-<a href="mailto:jerog000@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail: jerog000  -%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
 
-<be>
+---
 
-<li>
-<a href="https://www.youtube.com/@cosmoxs_code" target="_blank">
-<img src="https://img.shields.io/badge/youtube: CosmoxsCode  -%23EA4335.svg?style=for-the-badge&logo=youtube&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
+### Sobre mí
+
+Técnico Programador graduado en la Universidad Tecnológica Nacionalm, con experiencia en darrollo **aplicaciones webs y mobiles**.
+Actualmente estoy estudiando en la Univercidad de la Ciudad de Buenos Aires la carrera Lic. en Desarrollo y Produccion de videojuegos.
+
+
+---
+
+### Stack
+
+**Frontend & Mobile**
+`Angular` `TypeScript` `Ionic` `HTML` `CSS`
+
+**Backend & Bases de datos**
+`C#` `ASP.NET` `Java` `SQL` `Firebase`
+
+**Game Dev & 3D**
+`Unity` `Blender` `GIT`
+
+---
+
+### GitHub Stats
+
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeroGra&show_icons=true&hide_title=true&count_private=true&theme=default&hide_border=true&icon_color=555&text_color=555)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeroGra&layout=compact&hide_border=true&theme=default&text_color=555&langs_count=6)
+
+
+
+
+---
+
+### Contacto
+
+📧 [jerog000@gmail.com](mailto:jerog000@gmail.com)
+💼 [linkedin.com/in/jeronimo-granadillo](https://www.linkedin.com/in/jeronimo-granadillo/)
+🎮 [itch.io](https://jerogra.itch.io) — videojuegos 
+
+---
+
 
 
 
