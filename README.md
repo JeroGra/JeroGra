@@ -50,13 +50,7 @@ Actualmente estoy estudiando en la Univercidad de la Ciudad de Buenos Aires la c
 ### GitHub Stats
 
 
-
-
-![Metrics](https://metrics.lecoq.io/JeroGra?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FArgentina%2FBuenos_Aires).
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeroGra&layout=compact&theme=vision-friendly-dark)
-
-
+![My Metrics](github-metrics.svg)
 
 
 ---
