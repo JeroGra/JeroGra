@@ -52,10 +52,10 @@ Actualmente estoy estudiando en la Univercidad de la Ciudad de Buenos Aires la c
 Last update 04 / 2026
 
 #### ES
-<img width="1414" height="2000" alt="CV_ES_1_2026" src="https://github.com/user-attachments/assets/9dfb8cba-d654-4ff4-aa66-3b5a4934ff4b" />
+<img width="707" height="1000" alt="CV_ES_1_2026" src="https://github.com/user-attachments/assets/9dfb8cba-d654-4ff4-aa66-3b5a4934ff4b" />
 
 #### EN
-<img width="1414" height="2000" alt="CV_EN_1_2026" src="https://github.com/user-attachments/assets/c260ab7d-7f72-4844-a14e-01a8d85cce2a" />
+<img width="707" height="1000" alt="CV_EN_1_2026" src="https://github.com/user-attachments/assets/c260ab7d-7f72-4844-a14e-01a8d85cce2a" />
 
 ---
 
