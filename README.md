@@ -47,10 +47,16 @@ Actualmente estoy estudiando en la Univercidad de la Ciudad de Buenos Aires la c
 
 ---
 
-### GitHub Stats
+### CV
 
+Last update 04 / 2026
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeroGra&show_icons=true&theme=dark)
+#### ES
+[CV_ES_1_2026.pdf](https://github.com/user-attachments/files/26510998/CV_ES_1_2026.pdf)
+
+#### EN
+[CV_EN_1_2026.pdf](https://github.com/user-attachments/files/26511042/CV_EN_1_2026.pdf)
+
 
 
 ---
