@@ -60,8 +60,8 @@ Last update 04 / 2026
 
 📧 [jerog000@gmail.com](mailto:jerog000@gmail.com)
 💼 [linkedin.com/in/jeronimo-granadillo](https://www.linkedin.com/in/jeronimo-granadillo/)
-🎮 [itch.io](https://jerogra.itch.io) — videojuegos 
-
+🎮 [itch.io](https://jerogra.itch.io) — Mis videojuegos 
+🎮 [itch.io](https://functionalmadness.itch.io) — Otros videojugos que hago con mi team
 ---
 
 
